@@ -7,7 +7,7 @@ package com.redoute.gitproj;
 
 /**
  *
- * @author dev
+ * @author dev 1232
  */
 public class ValidaLogin {
     
