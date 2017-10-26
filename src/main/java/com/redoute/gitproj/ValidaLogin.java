@@ -18,7 +18,7 @@ public class ValidaLogin {
         return active;
     }
 
-    public void setActive(int active) {
+    public void setActive(int ac) {
         this.active = active;
     }
     
