@@ -21,5 +21,8 @@ public class ValidaLogin {
         this.username = username;
     }
     
+    public static void main(String[] args){
+        
+    }
     
 }
